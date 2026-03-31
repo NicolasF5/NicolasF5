@@ -1,6 +1,31 @@
-## Aoba. Eu sou Nícolas Amorim
+# 👋 Aoba! Eu sou o Nícolas Amorim
 
-- 🎓 Eu estou no 3° ano do ensino médio
-- 🎮 Participo do programa Entra21, na matéria de Desenvolvimento de games
-- 📫 si.nico.260908@gmail.com
-  
+<p align="center">
+  <img src="demo.gif" width="400">
+</p>
+
+---
+
+## 🎓 Sobre mim
+- 📚 Estou no **3º ano do ensino médio**
+- 🎮 Participo do programa **Entra21** (Desenvolvimento de Jogos)
+- 📫 Contato: **si.nico.260908@gmail.com**
+
+---
+
+## 🚀 Interesses
+- Desenvolvimento de jogos
+- Programação
+- Tecnologia em geral
+
+---
+
+## 📸 Demonstração
+<p align="center">
+  <img src="demo.gif" width="500">
+</p>
+
+---
+
+## 📌 Status
+🚧 Em aprendizado constante
