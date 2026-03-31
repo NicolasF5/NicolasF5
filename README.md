@@ -1,7 +1,7 @@
 # 👋 Aoba! Eu sou o Nícolas Amorim
 
 <p align="center">
-  <img src="demo.gif" width="400">
+  <img src="OsakaAutismo.jpg" width="400">
 </p>
 
 ---
