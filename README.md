@@ -1,4 +1,4 @@
-# 👋 Aoba! Eu sou o Nícolas Amorim
+### 👋 Aoba! Eu sou o Nícolas Amorim
 
 <p align="center">
   <img src="OsakaAutismo.jpg" width="400">
