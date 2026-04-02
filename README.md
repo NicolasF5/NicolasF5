@@ -15,10 +15,10 @@
 
 ## 🚀 Interesses
 - Desenvolvimento de jogos
-- Programação
+- Desenvolvimento de sistemas
 - Tecnologia em geral
-- Café
-<!--
+- Café 😝
+
 ---
 
 ## 📸 Demonstração
